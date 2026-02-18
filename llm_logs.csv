@@ -1,0 +1,4 @@
+response,latency,tokens
+"Approved loan",0.8,15
+"Fraud detected",1.2,20
+"I don’t know but maybe",2.5,30
